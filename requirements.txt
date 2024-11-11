@@ -2,4 +2,4 @@ streamlit
 openai
 python-pptx
 python-dotenv
-mysql
+pymysql
